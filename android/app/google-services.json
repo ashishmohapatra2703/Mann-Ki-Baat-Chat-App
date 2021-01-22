@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736488252694",
+    "project_id": "mannkibaat-82c34",
+    "storage_bucket": "mannkibaat-82c34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736488252694:android:bd8fda63c1f536e53edc37",
+        "android_client_info": {
+          "package_name": "co.ashishmohapatra.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736488252694-h7di8fc9f0pfsfhibsabskkfji3smca9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Ug150JdWIcYUyB7HUbNsncOPJ2NVq5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736488252694-h7di8fc9f0pfsfhibsabskkfji3smca9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
